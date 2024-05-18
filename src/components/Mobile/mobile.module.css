@@ -1,0 +1,32 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #DAEBEE;
+}
+
+.mobile {
+    position: absolute;
+    height: fit-content;
+    min-width: 20%;
+    /* border: 1px solid black; */
+    left: 40%;
+    top: 10%;
+    border-radius: 10px 10px;
+
+}
+
+.light {
+    background-color: aliceblue;
+    color: black;
+    border-color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+h3{
+    text-align: center
+}
